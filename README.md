@@ -1,2 +1,2 @@
 ## Atividade-sequelize
-Atividade de sequelize feita pelo aluno João Vitor
+###Atividade de sequelize feita pelo aluno João Vitor
